@@ -2,4 +2,5 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">PhoneApp</string>
+	<string name="CallHistory">Historial de llamadas</string>
 </resources>
