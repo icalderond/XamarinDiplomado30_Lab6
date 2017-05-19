@@ -72,20 +72,38 @@ namespace PhoneApp
 			// aapt resource value: 0x7f060002
 			public const int TranslateButton = 2131099650;
 			
+			// aapt resource value: 0x7f060006
+			public const int bhjkbhjk = 2131099654;
+			
+			// aapt resource value: 0x7f06000a
+			public const int btnValidar = 2131099658;
+			
 			// aapt resource value: 0x7f060005
-			public const int linearLayout1 = 2131099653;
+			public const int btnValidarActividad = 2131099653;
+			
+			// aapt resource value: 0x7f060009
+			public const int etContrasena = 2131099657;
+			
+			// aapt resource value: 0x7f060007
+			public const int etCorreo = 2131099655;
+			
+			// aapt resource value: 0x7f06000b
+			public const int linearLayout1 = 2131099659;
+			
+			// aapt resource value: 0x7f060008
+			public const int nbnmbbhj = 2131099656;
 			
 			// aapt resource value: 0x7f060000
 			public const int textView1 = 2131099648;
 			
-			// aapt resource value: 0x7f060006
-			public const int tvPrimero = 2131099654;
+			// aapt resource value: 0x7f06000c
+			public const int tvPrimero = 2131099660;
 			
-			// aapt resource value: 0x7f060007
-			public const int tvSegundo = 2131099655;
+			// aapt resource value: 0x7f06000d
+			public const int tvSegundo = 2131099661;
 			
-			// aapt resource value: 0x7f060008
-			public const int tvTercero = 2131099656;
+			// aapt resource value: 0x7f06000e
+			public const int tvTercero = 2131099662;
 			
 			static Id()
 			{
@@ -102,6 +120,9 @@ namespace PhoneApp
 			
 			// aapt resource value: 0x7f040000
 			public const int Main = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int ValidarLayout = 2130968577;
 			
 			static Layout()
 			{
